@@ -39,12 +39,12 @@ TikTok has emerged as a popular platform for short-form video content, and under
 ## Insights from Feature Importance
 
 - Feature importance analysis provided insights into the predictors of virality.
-  ![Feature Importance](images/img 1.png)  <!-- [insert img 1.png] -->
+  ![Feature Importance]("images/img 1.png")
 - Key predictors included engagement, total videos, time posted, video duration, and hashtags used.
 
 ## Analysis of Linear Regression Results
 
-- ![Linear Regression Results](images/img 2.png)  <!-- [insert img 2.png] -->
+- ![Linear Regression Results]("images/img 2.png")
 - Outliers in the data were observed, suggesting the need for outlier detection and handling.
 - Analysis revealed diminishing effects of engagement, video duration, and total videos on video plays.
 - The presence of four hashtags seemed to be optimal for maximizing video plays.
